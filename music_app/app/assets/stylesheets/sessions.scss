@@ -1,0 +1,19 @@
+// Place all the styles related to the sessions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+header {
+  // background: #7c9ea8;
+  display: flex;
+  justify-content: flex-start;
+
+  h1 {
+    color: #7c9ea8;
+    font-family: sans-serif;
+  }
+}
+
+body {
+  font-family: sans-serif;
+  color: #7c9ea8;
+}
